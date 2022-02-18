@@ -1,2 +1,6 @@
 **/pt
 gpt2_medium_spamham_4.pt
+.ipynb_checkpoints
+results/
+logs/
+__pycache__/
