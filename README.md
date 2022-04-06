@@ -25,7 +25,7 @@ Refer to the folder and attend readme to generate the model.
 
 <img src="https://raw.githubusercontent.com/matannagar/SMS-Phishing-Detection-Semi-Supervised/master/Repository%20overview.jpg"  width="700" height="500" />
 
-## Teammates ✨
+## Collaborators ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
